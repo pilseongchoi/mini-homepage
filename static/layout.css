@@ -108,7 +108,7 @@ body {
 /* 미니홈피 이름, url 표시, 컨테이너 : .content-title, 아이템 : content-title-name, content-title-url */
 .content-title {display: flex; align-items:flex-end}
 .content-title-name > a {text-decoration: none;color:black}
-.content-title-name {flex: 1;font-size: 1.1rem;font-family: 'Recipekorea'}
+.content-title-name {flex: 1;font-size: 1.1rem;font-family:'Recipekorea'}
 .content-title-url {flex: 0.5; font-size:0.8rem;text-align: end}
 
 /* 파도타기 박스 표시 */
